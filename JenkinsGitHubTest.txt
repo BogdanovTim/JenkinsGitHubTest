@@ -1,1 +1,1 @@
-If you can see this, the test is sucessfull!
+Test has been passed sucessfully!
