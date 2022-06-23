@@ -1,1 +1,1 @@
-Test has been passed sucessfully!
+This text is from Windows!
